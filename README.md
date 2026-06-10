@@ -1,8 +1,8 @@
-# ✨ AirNav — Redefining Interaction Through Motion
+# AirNav — Redefining Interaction Through Motion✨
 
 AirNav is a Python-based virtual mouse that enables touch-free computer interaction using hand gestures and a webcam. It tracks hand movements in real time and converts them into cursor actions, clicks, scrolling, and volume control.
 
-## 🚀 Features
+## Features
 
 - ☝️ Move cursor using index finger
 - 🤏 Left click using index + middle finger pinch
@@ -11,7 +11,7 @@ AirNav is a Python-based virtual mouse that enables touch-free computer interact
 - 👍 Volume control using thumb–index distance
 - Real-time hand tracking with gesture recognition
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python
 - OpenCV
@@ -21,7 +21,7 @@ AirNav is a Python-based virtual mouse that enables touch-free computer interact
 - Pycaw
 - Comtypes
 
-## 📦 Installation
+## Installation📦
 
 ### 1. Clone the repository
 
@@ -51,7 +51,7 @@ Or:
 pip install -r requirements.txt
 ```
 
-## ▶️ Run
+## Run
 
 ```bash
 python airnav.py
@@ -59,7 +59,7 @@ python airnav.py
 
 Press **Q** to quit.
 
-## 🎮 Gesture Controls
+## Gesture Controls🎮
 
 | Gesture | Action |
 |----------|---------|
@@ -69,7 +69,7 @@ Press **Q** to quit.
 | Two Fingers Up | Scroll |
 | Thumb ↔ Index Distance | Volume Control |
 
-## 💡 Future Improvements
+## Future Improvements
 
 - Drag & Drop Support
 - Custom Gestures
@@ -77,8 +77,4 @@ Press **Q** to quit.
 - Media Controls
 - Brightness Control
 
-## 👩‍💻 Author
 
-**Aastha Dhavan**
-
-*Redefining Interaction Through Motion.*
