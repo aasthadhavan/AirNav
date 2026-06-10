@@ -54,7 +54,7 @@ pip install -r requirements.txt
 ## Run
 
 ```bash
-python airnav.py
+python virtualmouse.py
 ```
 
 Press **Q** to quit.
